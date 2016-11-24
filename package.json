@@ -1,0 +1,16 @@
+{
+  "name": "abc-123",
+  "version": "1.0.0",
+  "description": "Convert letters to numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mike Henderyckx",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
+    "esbox": "^0.9.2"
+  }
+}
